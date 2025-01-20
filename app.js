@@ -11,7 +11,7 @@ const blogRoute = require('./routes/blog');
 const Blog = require("./models/blog");
 //creating application
 const app = express();
-const port = process.env.port;
+const port = process.env.port||5000;
 
 //connecting to mongoDb
 mongoose.connect(process.env.MONGO_URL).then(console.log("Connected to MongoDb"));
