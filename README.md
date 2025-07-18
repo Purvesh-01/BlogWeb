@@ -1,6 +1,3 @@
-Absolutely, Purvesh! Here’s a well-structured and engaging `README.md` for your GitHub repository, showcasing a MERN-based blogging platform. You can tweak the tone to be more technical or casual based on your audience.
-
----
 
 # 📝 Blogging Platform - MERN Stack
 
@@ -89,12 +86,3 @@ Contributions are welcome! If you’d like to fix a bug or suggest a feature:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-If you have some unique logic or debugging nuances you implemented (MongoDB optimization or JWT tricks), we can highlight that in a **"Technical Highlights"** section too.
-
-Want me to add that?
